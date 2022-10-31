@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoSweb/Bot-js.git"
+  },
+  "author": "gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoSweb/Bot-js/issues"
+  },
+  "homepage": "https://github.com/GustavoSweb/Bot-js#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
