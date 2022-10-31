@@ -28,7 +28,7 @@
     "is-number": "^7.0.0",
     "lodash.snakecase": "^4.1.1",
     "lodash.uniqwith": "^4.5.0",
-    "nodemon": "^2.0.20",
+    
     "minimatch": "^3.1.2",
     "nopt": "^1.0.10",
     "ms": "^2.1.3",
